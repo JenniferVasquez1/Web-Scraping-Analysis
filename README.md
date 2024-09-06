@@ -7,7 +7,7 @@
 ## Description
 Scrape and analyze Mars weather data, which exists in a table
 
-![app_image](mockup.png)
+![app_image](Mars_image2.png)
 
 ## Table of Contents
 - [Installation](#installation)
